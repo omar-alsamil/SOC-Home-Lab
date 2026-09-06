@@ -44,7 +44,7 @@ This project demonstrates a complete Security Operations Center (SOC) analysis w
 This project proves the ability to build a working SIEM environment, launch a realistic attack, correlate suspicious logs, and document the findings using industry-standard frameworks (MITRE ATT&CK).
 
 ## 📷 Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Alerts](screenshots/alerts.png)
-![Endpoints](screenshots/endpoints.png)
-![MITRE ATT&CK](screenshots/mitre.png) 
+![Dashboard](Screenshots/dashboard.png)
+![Alerts](Screenshots/alerts.png)
+![Endpoints](Screenshots/endpoints.png)
+![MITRE ATT&CK](Screenshots/mitre.png)  
